@@ -1,0 +1,7 @@
+pip install faiss-cpu
+pip install sentence-transformers
+pip install langchain-community
+pip install steamlit-chat
+pip install steamlit
+pip install langchain
+pip install ctransformers
